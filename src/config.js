@@ -34,7 +34,7 @@ export const appConfig = {
     region: 'us-east-1' // e.g. 'us-west-1'
   },
   // MODULE 3 - PHOTOS
-  photoUploadURL: '', // e.g. https://12abcdfg89.execute-api.us-west-2.amazonaws.com/Prod/Upload
+  photoUploadURL: 'https://3weynviwbh.execute-api.us-east-1.amazonaws.com/Prod/Upload',
   //
   // Don't modify anything below this comment!
   //
